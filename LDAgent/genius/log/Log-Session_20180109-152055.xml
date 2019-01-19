@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Tue Jan 09 15:20:55 GMT 2018" timeOfAgreement="0.5248618784530387" lastAction="(Accept  bid:Bid[Pie: a968, ])" domain="etc/templates/pie/pie_domain.xml" bids="188" runtime="0.341183938" finalOutcome="Bid[Pie: a968, ]" startingAgent="-" deadline="180rounds">
+<resultsOfAgent agent="LDAgent@15" agentDesc="LDAgent" utilspace="etc/templates/pie/pie_A.xml" agentClass="LDAgent" finalUtility="0.968" discountedUtility="0.968" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PokerFace@16" agentDesc="ANAC2015-19-PokerFace" utilspace="etc/templates/pie/pie_A.xml" agentClass="agents.anac.y2015.pokerface.PokerFace" finalUtility="0.968" discountedUtility="0.968" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

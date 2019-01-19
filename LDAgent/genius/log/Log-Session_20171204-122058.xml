@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Dec 04 12:39:43 GMT 2017" lastAction="null" domain="etc/templates/partydomain/party_domain.xml" bids="6" runtime="2710.705010621" finalOutcome="-" startingAgent="-" deadline="180rounds">
+<resultsOfAgent agent="ParsCat@0" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="SYAgent@1" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="LDAgent@2" agentDesc="LDAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="LDAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Tue Dec 05 03:32:51 GMT 2017" timeOfAgreement="0.9920079920079921" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: MP3, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="2590" runtime="33.695525751" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: MP3, Cleanup: Specialized Materials, ]" startingAgent="-" deadline="1000rounds">
+<resultsOfAgent agent="LDAgent@9" agentDesc="LDAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="LDAgent" finalUtility="0.7233333333333333" discountedUtility="0.7233333333333333" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="InoxAgent@10" agentDesc="ANAC 2013 - Inox" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2013.InoxAgent.InoxAgent" finalUtility="0.6806923070805868" discountedUtility="0.6806923070805868" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TheFawkes@11" agentDesc="ANAC 2012 - The Fawkes" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.anac.y2013.TheFawkes.TheFawkes" finalUtility="0.8755592546127247" discountedUtility="0.8755592546127247" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

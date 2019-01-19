@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Tue Jan 09 14:15:42 GMT 2018" timeOfAgreement="0.8241758241758241" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="214" runtime="6.303335043" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="-" deadline="90rounds">
+<resultsOfAgent agent="LDAgent@3" agentDesc="LDAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="LDAgent" finalUtility="0.69" discountedUtility="0.69" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PNegotiator@4" agentDesc="ANAC2015-22-PNegotiator" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2015.pnegotiator.PNegotiator" finalUtility="0.8522529669934003" discountedUtility="0.8522529669934003" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomDance@5" agentDesc="ANAC2015-23-RandomDance" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.anac.y2015.RandomDance.RandomDance" finalUtility="0.8512769996675457" discountedUtility="0.8512769996675457" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>
